@@ -27,7 +27,7 @@ pip install -r requirements.txt
 #### For Windows
 
 1. 將程式碼中圖片讀取的檔案路徑修改為以下格式： 
-   `r"C:\xxx\xxx"`{:.python}
+   `r"C:\xxx\xxx"`
 
 2. 執行以下指令：
     ```console
@@ -50,4 +50,4 @@ pip install -r requirements.txt
 - 請確保你已安裝 Chrome 瀏覽器。
 - 由於此程式使用自動化工具，請確保你的使用符合網站的使用條款，以免觸發不當行為。
 
-**注意：此程式僅供學習和研究之用，使用風險由使用者自行承擔。**
+**⚠️ 注意：此程式僅供學習和研究之用，使用風險由使用者自行承擔。**
