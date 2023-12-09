@@ -45,11 +45,11 @@ pip install -r requirements.txt
 
 最後按下 "開始" 按鈕，程式將在指定的時間自動執行，並在執行完畢後顯示提示訊息。
 
-👾 若是不想打包成桌面程式，也可直接透過 `python piano_room.py` 指令執行應用程式。
+**👾 若是不想打包成桌面程式，也可直接透過 `python piano_room.py` 指令執行應用程式。**
 
 ## 介面預覽
 
-<img src="demo.png" alt="System demo picture" width="80%"/>
+<img src="demo.png" alt="System demo picture" width="70%"/>
 
 ## 注意事項
 
