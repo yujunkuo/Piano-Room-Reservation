@@ -27,7 +27,7 @@ pip install -r requirements.txt
 #### For Windows
 
 1. 將程式碼中圖片讀取的檔案路徑修改為以下格式： 
-   `r"C:\xxx\xxx"`
+   `r"C:\xxx\xxx"`{:.python}
 
 2. 執行以下指令：
     ```console
