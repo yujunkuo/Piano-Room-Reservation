@@ -1,0 +1,11 @@
+# General 
+Pillow==10.0.1
+pytz==2023.3.post1
+selenium==4.12.0
+
+# GUI dependencies
+tk
+
+# Installation dependencies
+py2app==0.28.6
+pyinstaller==5.13.2
